@@ -1,6 +1,6 @@
 module github.com/NibiruChain/nibiru/v2
 
-go 1.24
+go 1.24.0
 
 require (
 	github.com/CosmWasm/wasmd v0.44.0
@@ -30,7 +30,7 @@ require (
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/gogoproto v1.4.10
 	github.com/gogo/protobuf v1.3.3
-	github.com/golang/mock v1.6.0
+	github.com/golang/mock v1.6.0 // indirect
 	github.com/golang/protobuf v1.5.4
 	github.com/google/gofuzz v1.2.0
 	github.com/gorilla/mux v1.8.1
@@ -65,10 +65,10 @@ require (
 	github.com/rs/cors v1.8.3
 	github.com/rs/zerolog v1.32.0
 	github.com/status-im/keycard-go v0.2.0
-	golang.org/x/crypto v0.37.0
+	golang.org/x/crypto v0.42.0
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
-	golang.org/x/net v0.39.0
-	golang.org/x/text v0.24.0
+	golang.org/x/net v0.44.0
+	golang.org/x/text v0.29.0
 )
 
 require (
@@ -240,9 +240,9 @@ require (
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect
 	golang.org/x/oauth2 v0.27.0 // indirect
-	golang.org/x/sync v0.13.0 // indirect
-	golang.org/x/sys v0.32.0 // indirect
-	golang.org/x/term v0.31.0 // indirect
+	golang.org/x/sync v0.17.0 // indirect
+	golang.org/x/sys v0.36.0 // indirect
+	golang.org/x/term v0.35.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	google.golang.org/api v0.155.0 // indirect
 	google.golang.org/genproto v0.0.0-20240123012728-ef4313101c80 // indirect
