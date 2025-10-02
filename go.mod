@@ -30,7 +30,7 @@ require (
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/gogoproto v1.4.10
 	github.com/gogo/protobuf v1.3.3
-	github.com/golang/mock v1.6.0
+	github.com/golang/mock v1.6.0 // indirect
 	github.com/golang/protobuf v1.5.4
 	github.com/google/gofuzz v1.2.0
 	github.com/gorilla/mux v1.8.1
@@ -44,7 +44,7 @@ require (
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.18.2
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.17.0
 	github.com/tidwall/sjson v1.2.5
 	github.com/tyler-smith/go-bip39 v1.1.0
