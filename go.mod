@@ -30,7 +30,7 @@ require (
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/gogoproto v1.4.10
 	github.com/gogo/protobuf v1.3.3
-	github.com/golang/mock v1.6.0
+	github.com/golang/mock v1.6.0 // indirect
 	github.com/golang/protobuf v1.5.4
 	github.com/google/gofuzz v1.2.0
 	github.com/gorilla/mux v1.8.1
@@ -61,7 +61,7 @@ require (
 	cosmossdk.io/tools/rosetta v0.2.1
 	github.com/cosmos/ibc-go/modules/light-clients/08-wasm v0.3.2-0.20240730185603-13c071f0b34d
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/rs/cors v1.8.3
 	github.com/rs/zerolog v1.32.0
 	github.com/status-im/keycard-go v0.2.0
