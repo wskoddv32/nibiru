@@ -522,3 +522,5 @@ Nibiru v1.3.0 adds interchain accounts.
 ---
 
 [LEGACY CHANGELOG](./LEGACY-CHANGELOG.md)
+
+<!-- Auto-update: 2025-10-13T11:42:27.821246 -->
